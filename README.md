@@ -1,3 +1,6 @@
+# Archived
+This project is now archived.
+
 # hardware
 This repository contains the necessary:
 - Design files 
